@@ -1,0 +1,10 @@
+C:\Users\julio\source\repos\operaciones\operaciones\bin\Debug\operaciones.exe.config
+C:\Users\julio\source\repos\operaciones\operaciones\bin\Debug\operaciones.exe
+C:\Users\julio\source\repos\operaciones\operaciones\bin\Debug\operaciones.pdb
+C:\Users\julio\source\repos\operaciones\operaciones\obj\Debug\operaciones.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\operaciones\operaciones\obj\Debug\operaciones.Form1.resources
+C:\Users\julio\source\repos\operaciones\operaciones\obj\Debug\operaciones.Properties.Resources.resources
+C:\Users\julio\source\repos\operaciones\operaciones\obj\Debug\operaciones.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\operaciones\operaciones\obj\Debug\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\operaciones\operaciones\obj\Debug\operaciones.exe
+C:\Users\julio\source\repos\operaciones\operaciones\obj\Debug\operaciones.pdb
